@@ -11,7 +11,7 @@ Bienvenue sur MagicPills, un site super où vous pouvez acheter des super-pouvoi
 Merci à l'entreprise partenaire Search Foresight | Agence SEO, pour avoir pris le temps de nous aider à progresser dans l'utilisation et la compréhension du SEO. 👏
 
 
-La Team Super Five :
+La Team Super Five, c'est :
 
 https://github.com/lwujek
 
