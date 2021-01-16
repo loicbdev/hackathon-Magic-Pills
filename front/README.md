@@ -5,8 +5,9 @@ structure du dépôt :
 - components/views
 - components/layout (optionnel, si nécessaire)
 - components/router (optionnel, pour faire PrivateRoute par exemple)
-- propTypes
-- contexts
-- images
 - consts
+- contexts
+- fonts
+- images
+- propTypes
 - utils (optionnel, si nécessaire)
