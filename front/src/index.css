@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Aquawax Light Trial';
+    src: local('Aquawax Light Trial'), url('./fonts/Aquawax Light Trial.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Aquawax Medium Trial';
+    src: local('Aquawax Medium Trial'), url('./fonts/Aquawax Medium Trial.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Aquawax Black Trial';
+    src: local('Aquawax Black Trial'), url('./fonts/Aquawax Black Trial.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Avengeance Heroic Avenger Normal';
+    src: local('Avengeance Heroic Avenger Normal'), url('./fonts/AVENGEANCE HEROIC AVENGER.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avengeance Heroic Avenger Normal';
+    src: local('Avengeance Heroic Avenger Normal'), url('./fonts/AVENGEANCE HEROIC AVENGER.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avengeance Heroic Avenger Italic';
+    src: local('Avengeance Heroic Avenger Italic'), url('./fonts/AVENGEANCE HEROIC AVENGER AT.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avengeance Heroic Avenger Italic';
+    src: local('Avengeance Heroic Avenger Italic'), url('./fonts/AVENGEANCE HEROIC AVENGER AT.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avengeance Heroic Avenger Bold';
+    src: local('Avengeance Heroic Avenger Bold'), url('./fonts/AVENGEANCE HEROIC AVENGER BD.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avengeance Heroic Avenger Bold Italic';
+    src: local('Avengeance Heroic Avenger Bold Italic'), url('./fonts/AVENGEANCE HEROIC AVENGER BI.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avengeance Heroic Avenger Bold';
+    src: local('Avengeance Heroic Avenger Bold'), url('./fonts/AVENGEANCE HEROIC AVENGER BD.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avengeance Heroic Avenger Bold Italic';
+    src: local('Avengeance Heroic Avenger Bold Italic'), url('./fonts/AVENGEANCE HEROIC AVENGER BI.ttf') format('truetype');
+}

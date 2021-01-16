@@ -1,0 +1,45 @@
+:root {
+    /* COLORS */
+    --red-background-color: #ff0000;
+    --gray-background-color: #c4c4c4;
+    --white-text-color: #ffffff;
+    --black-text-color: #000000;
+}
+
+
+/* RESET CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Avengeance Heroic Avenger Bold;
+    font-size: 1.7rem;
+    text-align: center;
+    padding-top: 60px
+}
+
+h2 {
+    font-family: Avengeance Heroic Avenger Bold;
+    font-size: 1.3rem;
+    text-align: center;
+    padding-top: 60px
+}
+
+h3 {
+    font-family: Avengeance Heroic Avenger Bold;
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 60px
+}
+
+p {
+    padding-bottom: 30px;
+    font-family: Aquawax Light Trial;
+}
+
+button {
+    font-family: Aquawax Medium Trial;
+}

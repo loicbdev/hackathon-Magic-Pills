@@ -1,0 +1,20 @@
+.Power {
+  margin-top: 5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+@media (max-width: 768px) {
+  .Power {
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+
+
+
+
