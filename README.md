@@ -9,3 +9,17 @@ Nous devions créer un site e-commerce décalé et avec un bon SEO.
 Bienvenue sur MagicPills, un site super où vous pouvez acheter des super-pouvoirs pour devenir un super-héros et c'est super ! 💪
 
 Merci à l'entreprise partenaire Search Foresight | Agence SEO, pour avoir pris le temps de nous aider à progresser dans l'utilisation et la compréhension du SEO. 👏
+
+
+La Team Super Five :
+
+https://github.com/lwujek
+
+https://github.com/Aymeric-Lancien
+
+https://github.com/Maxime-Monjal
+
+https://github.com/NicolasBonamy
+
+https://github.com/loicbdev
+
