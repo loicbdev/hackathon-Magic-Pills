@@ -1,6 +1,7 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { TinyButton as ScrollUpButton } from "react-scroll-up-button";
 import Home from "./components/views/Home/Home";
 import Product from "./components/views/Product/Product";
 import Header from "./components/commons/Header/Header";
@@ -28,6 +29,16 @@ function App() {
         <Route path="/:all" component={Page404} />
       </Switch>
       <Footer />
+      <ScrollUpButton
+        style={{
+          backgroundColor: "none",
+          width: "35px",
+          height: "35px",
+          transform: "translateY(-1.75rem) translateX(1.3rem)",
+          borderRadius: "5px",
+          boxShadow: "#FF0000 3px 3px 5px",
+        }}
+      />
     </Router>
   );
 }
