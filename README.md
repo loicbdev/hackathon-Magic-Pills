@@ -10,6 +10,14 @@ Bienvenue sur MagicPills, un site super où vous pouvez acheter des super-pouvoi
 
 Merci à l'entreprise partenaire Search Foresight | Agence SEO, pour avoir pris le temps de nous aider à progresser dans l'utilisation et la compréhension du SEO. 👏
 
+Méthode de travail et outils utilisés
+- Maquettage du site : FIGMA
+- Fonctionnalités : Product BackLog
+- Modélisation et création BDD : MySQL (workbench)
+- Front-end : React / Module.css
+- Back-end : Node.js / Express
+- Git / GitHub
+- SEO : Helmet et react-snap
 
 La Team Super Five, c'est :
 
