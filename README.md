@@ -17,7 +17,7 @@ Méthode de travail et outils utilisés :
 - Front-end : React / Module.css
 - Back-end : Node.js / Express
 - Git / GitHub
-- SEO : Helmet et react-snap
+- SEO : react-helmet et react-snap
 
 La Team Super Five, c'est :
 
