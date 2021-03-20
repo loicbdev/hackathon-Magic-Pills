@@ -1,5 +1,7 @@
 # hackathon-Magic-Pills
 
+### Déploiement : https://magicpills-hackathon.netlify.app/
+
 Victoire ! 🏆
 
 Après 48h de Hackathon à la Wild Code School, notre équipe Super Five est déclarée vainqueur du campus de Nantes ! 🎉
