@@ -25,10 +25,10 @@ Méthode de travail et outils utilisés :
 La Team Super Five, c'est :
 - [Laura](https://github.com/lwujek)
 
-<https://github.com/Aymeric-Lancien>
+- [Aymeric](https://github.com/Aymeric-Lancien)
 
-<https://github.com/Maxime-Monjal>
+- [Maxime](https://github.com/Maxime-Monjal)
 
-<https://github.com/NicolasBonamy>
+- [Nicolas](https://github.com/NicolasBonamy)
 
-<https://github.com/loicbdev>
+- [Loïc](https://github.com/loicbdev)
