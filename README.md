@@ -23,8 +23,7 @@ Méthode de travail et outils utilisés :
 - SEO : react-helmet et react-snap
 
 La Team Super Five, c'est :
-
-<https://github.com/lwujek>
+- [Laura](https://github.com/lwujek)
 
 <https://github.com/Aymeric-Lancien>
 
