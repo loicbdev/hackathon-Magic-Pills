@@ -17,8 +17,6 @@ function Cart() {
         <link rel="canonical" href={baseUrl} />
       </Helmet>
       <CardPowerCart />
-      <CardPowerCart />
-      <CardPowerCart />
     </div>
   );
 }

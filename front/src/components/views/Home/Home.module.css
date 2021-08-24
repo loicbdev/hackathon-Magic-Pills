@@ -41,6 +41,7 @@
   margin: 0.5rem;
   padding: 0.5rem;
   box-shadow: 2px 2px 1px var(--gray-background-color);
+  border-radius: 15px;
   font-family: Aquawax Medium Trial;
   background: var(--red-background-color);
   color: var(--white-text-color);
