@@ -1,5 +1,7 @@
 # hackathon-Magic-Pills
 
+### Déploiement : https://magicpills-hackathon.netlify.app/
+
 Victoire ! 🏆
 
 Après 48h de Hackathon à la Wild Code School, notre équipe Super Five est déclarée vainqueur du campus de Nantes ! 🎉
@@ -21,13 +23,12 @@ Méthode de travail et outils utilisés :
 - SEO : react-helmet et react-snap
 
 La Team Super Five, c'est :
+- [Laura](https://github.com/lwujek)
 
-<https://github.com/lwujek>
+- [Aymeric](https://github.com/Aymeric-Lancien)
 
-<https://github.com/Aymeric-Lancien>
+- [Maxime](https://github.com/Maxime-Monjal)
 
-<https://github.com/Maxime-Monjal>
+- [Nicolas](https://github.com/NicolasBonamy)
 
-<https://github.com/NicolasBonamy>
-
-<https://github.com/loicbdev>
+- [Loïc](https://github.com/loicbdev)
